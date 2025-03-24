@@ -1,5 +1,3 @@
-Welcome to **App Portfolio Uddhav**, a mobile application designed to showcase a personal portfolio with a vision to evolve into a lab or studio project. This app is built with cutting-edge technologies and optimized for performance, offering a seamless and responsive user experience.
-
 ## 🌟 Features
 
 ### 🚀 Visionary Goals
